@@ -13,22 +13,12 @@ B.Sc. Computer Science graduate with an interest in Data Analytics, Business Int
 
 ## Featured Projects
 
-### Holiday Itinerary Route Planner
-Python application for optimizing travel routes and itineraries.
+- [Holiday Itinerary Route Planner](https://github.com/jos-ahim/holiday-itinerary-route-planner)
 
-### Crowdfunding Prediction
-Machine learning model for predicting crowdfunding campaign success.
+- [Crowdfunding Prediction](https://github.com/jos-ahim/crowdfunding-prediction)
 
-## Languages
 
-- English (Native)
-- Lukiga (Native)
-- Luganda (Native)
-- German (B2)
 
-## Contact
-
-📧 jos.ahimbisibwe@gmail.com
 <!--
 **jos-ahim/jos-ahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
