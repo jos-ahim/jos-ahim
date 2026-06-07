@@ -1,6 +1,6 @@
 ## Hi I'm Josephine 👋
 
-B.Sc. Computer Science graduate with an interest in Data Analytics, Business Intelligence, and Information Systems.
+IT Field Service Engineer with a B.Sc. in Computer Science, transitioning into Data Analytics. Certified in Data Analysis and Data Engineering, with hands-on experience gained through academic and personal projects. Currently seeking opportunities to contribute to collaborative teams and apply analytical skills in real-world environments.
 
 ## Technical Skills
 
