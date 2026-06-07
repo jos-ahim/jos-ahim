@@ -15,8 +15,15 @@ IT Field Service Engineer with a B.Sc. in Computer Science, transitioning into D
 
 - [Holiday Itinerary Route Planner](https://github.com/jos-ahim/holiday-itinerary-route-planner)
 
+Developed a travel itinerary application that creates personalized holiday plans and optimized travel routes based on user preferences. The solution combines workflow automation, graph databases, and web services to provide efficient travel recommendations through an interactive interface.
+
+**Technologies:** Python, Neo4j, Apache Airflow, FastAPI, Docker, Streamlit
+
 - [Crowdfunding Prediction](https://github.com/jos-ahim/crowdfunding-prediction)
 
+Machine learning project focused on predicting the success of crowdfunding campaigns using historical Kickstarter data (30,000+ records). Implemented and compared Logistic Regression, KNN, Random Forest, and XGBoost models, with hyperparameter tuning and performance evaluation. Results were deployed through a Streamlit demo application.
+
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost, Plotly, Streamlit
 
 
 <!--
